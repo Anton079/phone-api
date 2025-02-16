@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I5HM8vtf5CUQ0k9UbUxGh37Y1wcOE3oCngD89b09vhU=",
+  "Source": "phones-api",
+  "BasePath": "_content/phones-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

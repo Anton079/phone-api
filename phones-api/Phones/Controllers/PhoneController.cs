@@ -5,17 +5,17 @@ using phones_api.Phones.Repository;
 namespace phones_api.Phones.Controllers
 {
     [ApiController]
-    [Route("api/v1/[controller")]
+    [Route("api/v1/[controller]")]
     public class PhoneController : ControllerBase
     {
         private IPhoneRepo _phoneRepo;
 
-        public PhoneRepo(IPhoneRepo phoneRepo)
+        public PhoneController(IPhoneRepo phoneRepo)
         {
             _phoneRepo = phoneRepo;
         }
 
-        [HttpGet]
+        [HttpGet("/allphones")]
 
         public async Task<ActionResult<List<Phone>>> GetPhonesAsync()
         {
