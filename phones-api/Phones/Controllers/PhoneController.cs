@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using phones_api.Phones.Dtos;
 using phones_api.Phones.Models;
 using phones_api.Phones.Repository;
 
@@ -22,6 +23,15 @@ namespace phones_api.Phones.Controllers
             var phone = await _phoneRepo.GetPhonesAsync();
 
             return Ok(phone);
+        }
+
+        [HttpPost("addPhone")]
+
+        public async Task<ActionResult<PhoneResponse>> CreateAsync([FromBody] PhoneRequest phoneReq)
+        {
+            PhoneResponse phoneSaved = await _phoneRepo.CreatePhoneAsync(phoneReq);
+
+            return Ok(phoneSaved);
         }
     }
 }

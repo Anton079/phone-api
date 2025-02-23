@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("phones-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f8cd9066a884db2ba436361bffd6714dd51324")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1be313bd5df2a9c006e1c7518cc6c4105760a449")]
 [assembly: System.Reflection.AssemblyProductAttribute("phones-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("phones-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

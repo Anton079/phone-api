@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\phones-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +19,36 @@
       "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones\\repository\\iphonerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones\\mapers\\phonemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones\\mapers\\phonemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones\\dtos\\phoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones\\dtos\\phoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones\\dtos\\phonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones\\dtos\\phonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|solutionrelative:phones-api\\phones\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC17A520-CBCC-4E76-B000-E6E385CEE6AC}|phones-api\\phones-api.csproj|c:\\mycode\\asp.net\\phones-api\\phones-api\\phones-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,48 +62,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "PhoneResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Dtos\\PhoneResponse.cs",
+              "RelativeDocumentMoniker": "phones-api\\Phones\\Dtos\\PhoneResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Dtos\\PhoneResponse.cs",
+              "RelativeToolTip": "phones-api\\Phones\\Dtos\\PhoneResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:00:31.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhoneRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Dtos\\PhoneRequest.cs",
+              "RelativeDocumentMoniker": "phones-api\\Phones\\Dtos\\PhoneRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Dtos\\PhoneRequest.cs",
+              "RelativeToolTip": "phones-api\\Phones\\Dtos\\PhoneRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:00:31.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneMappingProfile.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Mapers\\PhoneMappingProfile.cs",
+              "RelativeDocumentMoniker": "phones-api\\Phones\\Mapers\\PhoneMappingProfile.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Mapers\\PhoneMappingProfile.cs",
+              "RelativeToolTip": "phones-api\\Phones\\Mapers\\PhoneMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:00:28.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PhoneController.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Controllers\\PhoneController.cs",
               "RelativeDocumentMoniker": "phones-api\\Phones\\Controllers\\PhoneController.cs",
               "ToolTip": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Controllers\\PhoneController.cs",
               "RelativeToolTip": "phones-api\\Phones\\Controllers\\PhoneController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T16:13:07.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PhoneRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Repository\\PhoneRepo.cs",
               "RelativeDocumentMoniker": "phones-api\\Phones\\Repository\\PhoneRepo.cs",
               "ToolTip": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Repository\\PhoneRepo.cs",
               "RelativeToolTip": "phones-api\\Phones\\Repository\\PhoneRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:10:55.649Z"
+              "WhenOpened": "2025-02-15T16:10:55.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IPhoneRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Repository\\IPhoneRepo.cs",
               "RelativeDocumentMoniker": "phones-api\\Phones\\Repository\\IPhoneRepo.cs",
               "ToolTip": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Repository\\IPhoneRepo.cs",
               "RelativeToolTip": "phones-api\\Phones\\Repository\\IPhoneRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:10:45.284Z"
+              "WhenOpened": "2025-02-15T16:10:45.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Phone.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Phones\\Models\\Phone.cs",
               "RelativeDocumentMoniker": "phones-api\\Phones\\Models\\Phone.cs",
@@ -99,11 +152,12 @@
               "RelativeToolTip": "phones-api\\Phones\\Models\\Phone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:04:59.074Z"
+              "WhenOpened": "2025-02-15T16:04:59.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\appsettings.json",
               "RelativeDocumentMoniker": "phones-api\\appsettings.json",
@@ -115,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "phones-api.http",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\phones-api.http",
               "RelativeDocumentMoniker": "phones-api\\phones-api.http",
@@ -127,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "phones-api.csproj",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\phones-api.csproj",
               "RelativeDocumentMoniker": "phones-api\\phones-api.csproj",
@@ -139,20 +193,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Program.cs",
               "RelativeDocumentMoniker": "phones-api\\Program.cs",
               "ToolTip": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Program.cs",
               "RelativeToolTip": "phones-api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:59:56.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CreateSchema.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Data\\Migrations\\CreateSchema.cs",
               "RelativeDocumentMoniker": "phones-api\\Data\\Migrations\\CreateSchema.cs",
@@ -160,11 +214,12 @@
               "RelativeToolTip": "phones-api\\Data\\Migrations\\CreateSchema.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:59:30.068Z"
+              "WhenOpened": "2025-02-15T15:59:30.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\phones-api\\phones-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeDocumentMoniker": "phones-api\\Data\\Migrations\\AppDbContext.cs",
@@ -172,7 +227,8 @@
               "RelativeToolTip": "phones-api\\Data\\Migrations\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:59:17.342Z"
+              "WhenOpened": "2025-02-15T15:59:17.342Z",
+              "EditorCaption": ""
             }
           ]
         }
